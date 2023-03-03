@@ -7,3 +7,9 @@ The code-breaker makes a guess by placing four colored pegs in the same order on
 The code-breaker then uses this feedback to adjust their next guess, using a process of elimination to deduce the correct code. The game continues until the code-breaker correctly guesses the code or until the maximum number of attempts is reached.
 
 Mastermind is a challenging game that requires logical thinking, deductive reasoning, and strategic planning. It is suitable for players of all ages and can be played in about 15-30 minutes.
+
+HOW TO PLAY:
+
+This is a command line interface where the user inputs the first letter of a color that they
+wish to play a guess for. The user will be told how many colors of the code that they have
+guessed correctly and/or how many colors are placed in the correct position to form the code.
