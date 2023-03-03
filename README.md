@@ -6,7 +6,7 @@ The code-breaker makes a guess by placing four colored pegs in the same order on
 
 The code-breaker then uses this feedback to adjust their next guess, using a process of elimination to deduce the correct code. The game continues until the code-breaker correctly guesses the code or until the maximum number of attempts is reached.
 
-Mastermind is a challenging game that requires logical thinking, deductive reasoning, and strategic planning. It is suitable for players of all ages and can be played in about 15-30 minutes.
+Mastermind is a challenging game that requires logical thinking, deductive reasoning, and strategic planning. It is suitable for players of all ages and can be played in about 5 minutes.
 
 
 <h1>HOW TO PLAY</h1>
