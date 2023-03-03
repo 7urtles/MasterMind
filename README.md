@@ -1,5 +1,3 @@
-# MasterMind
-
 <h1>About the Game</h1>
 
 Mastermind is a two-player code-breaking game where one player, the code-maker, creates a secret code using a series of colored pegs, and the other player, the code-breaker, tries to guess the code within a limited number of attempts. The game typically comes with a board with four rows of holes, where the code-maker places four colored pegs in a specific order, with the possibility of using duplicates.
