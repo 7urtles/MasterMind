@@ -16,5 +16,7 @@ wish to play a guess for. The user will be told how many colors of the code that
 guessed correctly and/or how many colors are placed in the correct position to form the code.
 
 <code>
-
+git clone https://github.com/chparmley/MasterMInd.git
+cd MasterMind
+python3 mastermind.py
 </code>
